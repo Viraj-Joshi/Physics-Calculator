@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Physics Calculator</string>
+
+    <string name="OneDM">One Dimensional Motion</string>
+
+    <string name="TwoDM">Projectile Motion</string>
+
+    <string name="forces">Forces</string>
+    <string name="title_activity_forces">ForcesActivity</string>
+</resources>
